@@ -1,4 +1,4 @@
-# springboot-security-default #
+# springboot-security-basic-default #
 
 The ```spring-boot-starter-security``` dependency enables the authentication and authorization in all end-points.
 
